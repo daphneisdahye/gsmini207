@@ -1,5 +1,12 @@
-## Hello, I'm JIN DAHYE 👋
-###  📚 Knowledge
+# Hello, I'm JIN DAHYE 👋
+
+### ⭐I want to be an IT developer 🙎🏻 
+✔ Who always **enjoy communicating** with people<br>
+✔ Who know how to **catch what people want**<br>
+✔ Who always **take on new challenges** and **more responsibilities**<br>
+<br>
+
+##  📚 Knowledge
 
 <div>   
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -15,11 +22,14 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 </div>
+<br>
 
-### 💻 &nbsp;GitHub Analytics
 
-![Dahye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahye&show_icons=true&theme=algolia)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dahye&layout=compact&theme=algolia)
+## 💻 &nbsp;GitHub Analytics
+
+![Dahye's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsmini207&show_icons=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsmini207&layout=compact&theme=algolia)
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgsmini207%2Fhit-counter&count_bg=%23B1FAFB&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!--
 **gsmini207/gsmini207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
